@@ -1,0 +1,10 @@
+[package]
+name = "catair"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/jberry93/catair"
+readme = "README.md"
+keywords = ["customs", "catair", "cbp", "abi", "edi"]
+
+[dependencies]
